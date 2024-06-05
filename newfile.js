@@ -15,3 +15,8 @@ document.addEventListener('DOMContentLoaded', function() {
        this.reset(); // Reset form after submission
    });
 });
+
+//whoot whoot coot coot dute dute
+
+// This is a new JavaScript file
+console.log("Hello, world!");
