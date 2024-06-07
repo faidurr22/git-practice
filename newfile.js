@@ -20,3 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // This is a new JavaScript file
 console.log("Hello, world!");
+
+
+// This is a new JavaScript file
+console.log("Hello, world!");
